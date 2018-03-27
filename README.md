@@ -1,1 +1,5 @@
 # ml-workshop-march
+
+Start a notebook and run following commands:
+!git clone https://github.com/vcarpenter/ml-workshop-march.git 
+!pip install google.cloud
