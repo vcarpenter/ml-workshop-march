@@ -22,6 +22,13 @@ Please [Create a Google Cloud Project](https://cloud.google.com/resource-manager
 * [Google Cloud Video Intelligence API](https://console.developers.google.com/apis/api/videointelligence.googleapis.com/overview)
 * [Google Cloud BigQuery API](https://console.developers.google.com/apis/api/bigquery-json.googleapis.com/overview)
 
+More on How to Enable APIs:
+* In the GCP Console, go to [APIs & services](https://console.cloud.google.com/apis/library) for your project created in Step #1.
+* Use the search box to look for API you want to enable.
+* Click Enable.
+
+# Step #3: Launch Cloud Datalab 
+Follow [this codelab](https://codelabs.developers.google.com/codelabs/cpb100-datalab/index.html#0) (please don’t delete the VM instead shut it down or keep it running )
 
 # ml-workshop-march
 <br>
