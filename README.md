@@ -1,5 +1,7 @@
 
-# PreRequites for all the labs are below. Time needed to finish the pre-reqs ~15 mins.
+# PreRequites for all the labs are below. 
+#### Time needed to finish the pre-reqs ~15 mins.
+
 ## Step #0: Familiarity with Machine Learning (ML) concepts
 <br>
 Expectation is for attendees to be familiar:
