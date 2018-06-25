@@ -30,7 +30,7 @@ More on How to Enable APIs:
 # Step #3: Launch Cloud Datalab 
 Follow [this codelab](https://codelabs.developers.google.com/codelabs/cpb100-datalab/index.html#0) (please don’t delete the VM instead shut it down or keep it running )
 
-# ml-workshop-march
+# Step #4: Launch the Labs
 <br>
 Start a notebook and run following commands:<br><br>
 
